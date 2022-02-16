@@ -1,2 +1,2 @@
 # February-Leetcoding-Challenge
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+This contains the solution to all the problems that came in February Daily Leetcoding Challenge 2022
